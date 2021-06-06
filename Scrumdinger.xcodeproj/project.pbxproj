@@ -16,6 +16,7 @@
 		BDF7990A266D0EBD00C47F20 /* ScrumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF79909266D0EBD00C47F20 /* ScrumView.swift */; };
 		BDF7990C266D14B200C47F20 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF7990B266D14B200C47F20 /* Color+Codable.swift */; };
 		BDF7990E266D1A6700C47F20 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF7990D266D1A6700C47F20 /* DetailsView.swift */; };
+		BDF79910266D231800C47F20 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF7990F266D231800C47F20 /* EditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		BDF79909266D0EBD00C47F20 /* ScrumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumView.swift; sourceTree = "<group>"; };
 		BDF7990B266D14B200C47F20 /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		BDF7990D266D1A6700C47F20 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
+		BDF7990F266D231800C47F20 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				BDF79904266D08CA00C47F20 /* Models */,
 				BDF798F5266CFF5C00C47F20 /* ScrumdingerApp.swift */,
 				BDF798F7266CFF5C00C47F20 /* MeetingView.swift */,
+				BDF7990F266D231800C47F20 /* EditView.swift */,
 				BDF798F9266CFF5C00C47F20 /* Assets.xcassets */,
 				BDF798FE266CFF5C00C47F20 /* Info.plist */,
 				BDF798FB266CFF5C00C47F20 /* Preview Content */,
@@ -163,6 +166,7 @@
 			files = (
 				BDF798F8266CFF5C00C47F20 /* MeetingView.swift in Sources */,
 				BDF7990E266D1A6700C47F20 /* DetailsView.swift in Sources */,
+				BDF79910266D231800C47F20 /* EditView.swift in Sources */,
 				BDF79906266D08DD00C47F20 /* DailyScrum.swift in Sources */,
 				BDF7990A266D0EBD00C47F20 /* ScrumView.swift in Sources */,
 				BDF79908266D0A9B00C47F20 /* CardView.swift in Sources */,
